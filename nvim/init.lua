@@ -1,0 +1,5 @@
+require("user.config.global")
+require("user.config.option")
+require("user.config.keymap")
+require("user.config.autocmd")
+require("user.config.lazy")
